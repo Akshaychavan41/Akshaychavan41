@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I am Akshay. Currenty I am working as SDE Frontend at Rebel Foods with 2 years of exp in frontend development. I am tring to improve my frontend skills.
+#I am Akshay. Currenty I am working as SDE Frontend at Rebel Foods with 2.5 years of exp in frontend development. I am tring to improve my frontend skills.
 
 - 🔭 I’m currently working on React, JavaScript
 - 🌱 I’m currently learning React. Gaining Indepth knowledge on JavaScript
