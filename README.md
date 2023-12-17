@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I am Akshay. Currenty I am working as Software Engineer Frontend at Paytm with 4 years of exp in frontend development.
+#I am Akshay. Currenty I am working as Software Engineer Frontend at Paytm with 5 years of exp in frontend development.
 
 - 🔭 I’m currently working on React, JavaScript
 - 🌱 I’m currently learning React. Gaining Indepth knowledge on JavaScript
